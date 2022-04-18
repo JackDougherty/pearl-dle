@@ -1,1 +1,1 @@
-# wordle
+# pearl-dle
